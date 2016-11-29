@@ -1,6 +1,6 @@
 {
   "name": "isso",
-  "filename": "embed.min.js" , "count.min.js",
+  "filename": "embed.min.js",
   "version": "0.1.0",
   "description": "A Disqus Alternative",
   "homepage": "https://posativ.org/isso/",
